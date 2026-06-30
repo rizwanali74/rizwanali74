@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rizwan Ali</h1>
 
-<!--
-**rizwanali74/rizwanali74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌱 Learning Web Development • 💻 Future Full Stack Developer • 🚀 Always Learning
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🌱 Currently learning **JavaScript**
+- 💡 Interested in Web Development
+- 🔭 Building beginner-friendly projects
+- 📚 Learning Git & GitHub every day
+
+### 🛠️ Languages & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+### 🎯 2026 Goals
+
+- ✅ Build 20+ projects
+- ✅ Learn React
+- ✅ Learn Node.js
+- ✅ Contribute to Open Source
+
+### 📫 Reach Me
+
+- GitHub: **github.com/rizwanali74**
+
+---
+
+⭐ *Thanks for visiting my profile! Happy Coding!* 🚀
