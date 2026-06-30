@@ -1,64 +1,52 @@
-Hi 👋, I'm Rizwan Ali
-MERN Stack Developer
-Lahore, Punjab, Pakistan
+<h1 align="center">Hi 👋, I'm Rizwan Ali</h1>
 
-📧 Email • 💼 LinkedIn • GitHub
+<p align="center">
+  💻 MERN Stack Developer • 🚀 Building Production Apps • 🌟 Always Learning
+</p>
 
-👨‍💻 About Me
-MERN Stack Developer with 1 year of professional experience building and shipping a production CRM platform — including real-time chat, role-based authentication, and data visualization dashboards. Skilled across the full stack with React.js, Next.js, Node.js, Express.js, and MongoDB, with additional background in PHP and REST API integration from 3 prior years as a web developer.
+---
 
-I focus on writing clean, maintainable code and delivering features that hold up under real users and real deadlines.
+### 👨‍💻 About Me
 
-🧰 Tech Stack
-Front-End
-ReactNext.jsVue.jsJavaScriptTailwind CSSBootstrapMaterial UIFramer Motion
+- 💻 MERN Stack Developer with **1 year** of professional experience
+- 🔭 Built and shipped a production **CRM platform** with real-time chat, role-based auth, and data dashboards
+- 🌱 **3+ years** of web development background including PHP and REST API integration
+- 💡 Focused on writing **clean, maintainable code** that holds up under real users and deadlines
+- 🤝 Collaborating daily in **Agile/Scrum** teams
 
-Back-End & Database
-Node.jsExpress.jsMongoDBPostgreSQLRedisREST API
+### 🛠️ Languages & Tools
 
-Authentication & Tools
-JWTOAuth 2.0GitGitHub ActionsVS CodeAgile/Scrum
+- **Front-End:** React.js, Next.js, Vue.js, JavaScript (ES6+), Tailwind CSS, Bootstrap, Material UI, Framer Motion
+- **Back-End:** Node.js, Express.js, RESTful APIs, PHP
+- **Database:** MongoDB, PostgreSQL, Redis
+- **Auth:** JWT, OAuth 2.0, Zoho Token-Based Auth
+- **Tools:** Git, GitHub, GitHub Actions, VS Code, Cloudinary, Socket.io
 
-💼 Professional Experience
-🟢 MERN Stack Developer — FairChance for CRM
-Feb 2025 – Present | Lahore, Pakistan
+### 💼 Experience
 
-Lead end-to-end development of a Zoho CRM-style platform using the MERN stack
-Design RESTful APIs and MongoDB schemas to streamline frontend-to-backend communication
-Build data visualization modules (charts & dashboards) for real-time sales pipeline visibility
-Implement role-based authentication and permission controls across multiple user types
-Integrate real-time chat using Socket.io with presence detection and media sharing — increasing team communication speed by 20%
-Collaborate daily in Agile/Scrum, delivering scalable CRM modules within sprint deadlines
-🔵 React.js Developer — MAGMA3C Pvt. Limited
-May 2024 – Jul 2024 | Lahore, Pakistan
+- 🟢 **MERN Stack Developer** @ FairChance for CRM *(Feb 2025 – Present)*
+- 🔵 **React.js Developer** @ MAGMA3C Pvt. Limited *(May 2024 – Jul 2024)*
+- 🟡 **Web Designer** @ BCLIX Tech Pvt. Limited *(Mar 2024 – Apr 2024)*
 
-Developed and shipped features for internal dashboards using the MERN stack with live data APIs
-Implemented Cloudinary for image upload, storage, and retrieval — improving app load speed
-Built responsive React components styled with Tailwind CSS, earning positive stakeholder feedback
-Participated in peer code reviews via Git/GitHub pull requests
-🟡 Web Designer — BCLIX Tech Pvt. Limited
-Mar 2024 – Apr 2024 | Bahawalnagar, Pakistan
+### 🎓 Education
 
-Built full-stack web applications using HTML, CSS, Bootstrap, and JavaScript
-Developed RESTful APIs in PHP for dynamic data via AJAX and Fetch API
-Automated Shopify product data sync via cURL in PHP — saving ~8 hours/week of manual inventory work
-Improved UI responsiveness and cross-device compatibility
-🎓 Education
-Bachelor of Science in Computer Science (BSCS)The Islamia University of Bahawalpur | Feb 2021 – Jan 2025
+- **BSCS** from The Islamia University of Bahawalpur *(Feb 2021 – Jan 2025)*
 
-🎯 2025–2026 Goals
- Ship the CRM platform to production with full client onboarding
- Deepen expertise in Next.js and PostgreSQL
- Contribute meaningfully to open-source projects
- Explore microservices architecture and Redis at scale
- Build and maintain a personal project portfolio with 10+ deployed projects
-📊 GitHub Stats
-GitHub Stats
+### 🎯 2025–2026 Goals
 
-📫 Let's Connect
-Platform	Link
-📧 Email	rizwali303@gmail.com
-💼 LinkedIn	linkedin.com/in/rizzwanali
-🐙 GitHub	github.com/rizw7498
-📱 Phone	+92 300-5645467
+- ✅ Ship the CRM platform to full production
+- ✅ Deepen expertise in **Next.js** and **PostgreSQL**
+- ✅ Contribute meaningfully to **Open Source**
+- ✅ Explore microservices architecture at scale
+- ✅ Build and deploy **10+** personal portfolio projects
+
+### 📫 Reach Me
+
+- Email: **rizwali303@gmail.com**
+- LinkedIn: **linkedin.com/in/rizzwanali**
+- GitHub: **github.com/rizw7498**
+- Phone: **+92 300-5645467**
+
+---
+
 ⭐ *Thanks for visiting my profile! Let's build something great together.* 🚀
